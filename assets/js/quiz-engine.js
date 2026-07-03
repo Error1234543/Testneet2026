@@ -194,3 +194,4 @@ function retryQuiz() {
     document.getElementById('quizBody').style.display = 'block';
     initQuiz(QUIZ_STATE.config);
 }
+
