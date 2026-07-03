@@ -107,3 +107,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
     console.log('✅ NEET Gujarati Main Page Loaded!');
 });
+
